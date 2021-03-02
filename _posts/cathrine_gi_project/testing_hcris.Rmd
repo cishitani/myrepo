@@ -10,7 +10,7 @@ date: "`r Sys.Date()`"
 output:
   distill::distill_article:
     self_contained: true
-toc: false
+toc: false 
 categories: Catherine and Gi's project
 ---
 
